@@ -1,4 +1,4 @@
-# Task 2 (LMC) instruction
+# Task 2 (LCM) instruction
 ## **Step 1 :** Before executing any file install dependencies by running the below command inside Task2 directory where packeng.json file is placed
 
     npm install
