@@ -79,8 +79,12 @@ And in `__test__` directory the `bt.test.js` file contains test cases for binary
     npm test -- lcm
     npm test -- lcm.test
     npm test -- lcm.test.js
+    
+    npm test -- bt
+    npm test -- bt.test
+    npm test -- bt.test.js
 
-In above commands the  command `npm test --` is the part of syntex and the the ` lcm,   lcm.test,   lcm.test.js ` is the file where i have write the test cases for lcm program.
+In above commands the  command `npm test --` is the part of syntex and the ` lcm,   lcm.test,   lcm.test.js or bt,   bt.test,    bt.test.js` is the file where I have writen the test cases for lcm and bt (binary tree) program.
 
 So just change the name of the file whilc you want to test
 
